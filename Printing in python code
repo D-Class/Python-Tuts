@@ -1,0 +1,30 @@
+Python Code
+
+# Print functions are the most basic python functions and can be used for:
+# Printing strings (words and letters), calculations, and stating true or false
+# Print functions can take a string argument
+#  You can't open and close a print function with different quotations.
+print('Hello, World!')
+# Print functions can also do calculations within them:
+print(2+1)
+print(4 * 5)
+# You can also have a print function print out blanks:
+print()
+# They can also state whether an argument is true or false
+print(2 == 1)  # This should return 'False' with a capital
+# And anything typed after a hash is ignored by the interpreter, they are used for notes and comments
+# You can even type multiple data types, such a strings and integers and floats:
+print('Look!', 'I can print multiple data types!', ' And in the same print function!', 1, 2, 3, 4, 5, 6, 7, 8, 9)
+# You can even print the same strings as many times as you want:
+print(5 * 'Good! ')
+# Pattern
+print(1 * 'A')
+print(2 * 'A')
+print(3 * 'A')
+print(4 * 'A')
+print(5 * 'A')
+
+print('This string \n has been \n split \n along \n more lines')
+print('This string \t has been \t tabbed')
+
+print('The new kid\'s uh... sleepin\' \'n his bedroom')
